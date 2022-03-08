@@ -8,11 +8,11 @@
         <version>2.6.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.kushnir</groupId>
+    <groupId>com.vilgax</groupId>
     <artifactId>tmbtool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>TMBToolFullStack</name>
-    <description>Personal Project Task Management Board Tool</description>
+    <description> Task Management task</description>
     <properties>
         <java.version>11</java.version>
     </properties>
