@@ -6,7 +6,11 @@
 - [Maven](http://maven.apache.org/) to build the project.
 - [Node.js](https://nodejs.org/en/) to run the React frontend.
 - [PostgreSQL](https://www.postgresql.org/) as a database to store the persistent project data.
-
+-##Tools
+    [Intelij](https://www.jetbrains.com/idea/) as your backend IDE
+    [vsCode](https://code.visualstudio.com/) as frontend IDE for react
+    [PGAdmin](https://www.jetbrains.com/datagrip/download/download-thanks.html?platform=windows) DB IDE
+ 
 ## 🔀 Endpoints 
 #### 🔒 Security actions
 Authenticate or register a new user in the system.
